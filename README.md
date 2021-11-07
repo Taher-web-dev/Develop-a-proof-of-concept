@@ -25,13 +25,13 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Perform-automatic-image-indexing.git
+$ git clone git@github.com:Taher-web-dev/Develop-a-proof-of-concept.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Perform-automatic-image-indexing
+$ cd Develop-a-proof-of-concept
 ```
 
 ### Prerequisites
